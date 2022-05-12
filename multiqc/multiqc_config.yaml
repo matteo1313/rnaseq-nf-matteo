@@ -1,5 +1,10 @@
 title: "Nextflow RNA-seq demo"
 subtitle: "A pipeline for quantification of genomic features from short read data"
 
+report_header_info:
+    - Contact E-mail: 'matteo.miralaie@gmail.com'
+    - Application Type: 'RNA-seq'
+    - Project Type: 'Nextflow demo'
+    - Author Name: 'Matteo Miralaie'
 
 
